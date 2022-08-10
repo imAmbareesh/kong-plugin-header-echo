@@ -1,7 +1,7 @@
 package = "kong-plugin-header-echo"
 version = "0.1.0-1"
 source = {
-   url = ""
+   url = "https://github.com/imAmbareesh/kong-plugin-header-echo.git"
 }
 description = {
    homepage = "",
